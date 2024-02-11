@@ -1,0 +1,339 @@
+h1 { 
+
+    color: rgb(0, 0, 0); 
+    
+    font-size: 50px; 
+    
+    font-family:  Tahoma, sans-serif; 
+    
+    text-decoration: none; 
+    
+    } 
+    
+    h2 { 
+    
+    color: #000000; 
+    
+    font-size: 120%; 
+    
+    font-family: Arial,sans-serif; 
+    
+    text-decoration: none; 
+    
+     
+    
+    } 
+    
+    p { 
+    
+        
+    
+        color: rgb(0, 0, 0); 
+    
+      
+    
+       font-family: Verdana, times , sans-serif; 
+    
+       text-decoration: none; 
+    
+    } 
+    
+     
+    
+    .menu ul { 
+    
+        text-align: center; 
+    
+        padding-top: 20px; 
+    
+    text-decoration: none; 
+    
+     
+    
+    } 
+    
+    .menu li { 
+    
+        display: inline-block; 
+    
+     text-align: center; 
+    
+     
+    
+    } 
+    
+    .menu li a { 
+    
+    display:inline-block; 
+    
+    height: auto; 
+    
+    width: 150px; 
+    
+    color: rgb(0, 0, 0); 
+    
+    background-color: #dfb133; 
+    
+    padding: 10px; 
+    
+    margin: 4px; 
+    
+    text-align: center; 
+    
+    font-size: 18px; 
+    
+    font-weight: bold; 
+    
+    text-decoration: none; 
+    
+    border-radius: 4px; 
+    
+     
+    
+    } 
+    
+    .menu li a:hover { 
+    
+    background-color: rgb(252, 207, 61); 
+    
+     
+    
+    } 
+    
+     
+    
+     
+    
+     
+    
+     
+    
+    .menu { 
+    
+        
+    
+        margin: 2px; 
+    
+        object-fit: cover; 
+    
+        object-position: top; 
+    
+     
+    
+            overflow: auto; 
+    
+            text-align: center; 
+    
+        background-color: rgb(255, 255, 255); 
+    
+            padding-top: 20px; 
+    
+            padding-bottom: 20px; 
+    
+     
+    
+    background-color: rgba(141, 99, 22, 0.911); 
+    
+    overflow: auto; 
+    
+    } 
+    
+    .main { 
+    
+    overflow: auto; 
+    
+    text-align: center; 
+    
+    background-color: rgba(141, 99, 22, 0.911); 
+    
+    padding-top: 20px; 
+    
+    padding-bottom: 20px; 
+    
+    text-decoration: none; 
+    
+    } 
+    
+    .photo { 
+    
+    border-style: solid; 
+    
+    border-width: 10px; 
+    
+    border-color: rgb(141, 99, 22, 0.911); 
+    
+    border-radius: 6px; 
+    
+    margin: 2px; 
+    
+    object-fit: cover; 
+    
+    object-position: top; 
+    
+     
+    
+     
+    
+     
+    
+        overflow: auto; 
+    
+        padding-top: 20px; 
+    
+    padding-bottom: 40px; 
+    
+    text-align: center; 
+    
+    background-color: rgba(255, 255, 255, 0.911); 
+    
+     
+    
+        overflow: auto; 
+    
+    background-color: rgb(141, 99, 22, 0.911); 
+    
+    } 
+    
+    .photar { 
+    
+    overflow: auto; 
+    
+    padding-top: 20px; 
+    
+    padding-bottom: 20px; 
+    
+    text-align: center; 
+    
+    background-color: rgb(255, 255, 255); 
+    
+     
+    
+     
+    
+     
+    
+        overflow: auto; 
+    
+            background-color: rgb(141, 99, 22, 0.911); 
+    
+    } 
+    
+    .photar li { 
+    
+        display: inline-block; 
+    
+     text-align: center; 
+    
+     
+    
+    } 
+    
+    .photar li a { 
+    
+    display:inline-block; 
+    
+    height: auto; 
+    
+    width: 150px; 
+    
+    color: #333333; 
+    
+    background-color: #f5f5f5; 
+    
+    padding: 10px; 
+    
+    margin: 4px; 
+    
+    text-align: center; 
+    
+    font-size: 18px; 
+    
+    font-weight: bold; 
+    
+    text-decoration: none; 
+    
+    border-radius: 4px; 
+    
+     
+    
+    } 
+    
+    .photar li a:hover { 
+    
+    background-color: rgb(219, 164, 46); 
+    
+    } 
+    
+     
+    
+    h1 { 
+    
+    color: rgb(0, 0, 0); 
+    
+    font-weight: bold; 
+    
+    font-size: 36px; 
+    
+    } 
+    
+    .main h2 { 
+    
+    overflow: auto; 
+    
+    margin-top: 40px; 
+    
+    margin-left: auto; 
+    
+    margin-right: auto; 
+    
+    width: 200px; 
+    
+    padding: 10px; 
+    
+    background-color: antiquewhite; 
+    
+    color: rgb(0, 0, 0); 
+    
+    font-weight: bold; 
+    
+    text-align: center; 
+    
+    border-radius: 30px; 
+    
+     
+    
+     
+    
+    } 
+    
+    .photo h2 { 
+    
+    color: #000000; 
+    
+    font-size: 28px; 
+    
+     
+    
+    } 
+    
+    .photar h2 { 
+    
+    color: #d6d599; 
+    
+     
+    
+     
+    
+    } 
+    
+     
+    
+    .photar p { 
+    
+     
+    
+    color: rgb(0, 0, 0); 
+    
+     
+    
+    } 
